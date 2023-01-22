@@ -10,8 +10,10 @@
 * D-Tale profiling dosent work with current version of streamlit(both demanda different versions of scipy)
 
 
+![Screenshot (136)](https://user-images.githubusercontent.com/122214096/213917171-83149770-2e8e-4bbd-96bc-f8957e6ede50.png)
 
-![Screenshot (136)](https://user-images.githubusercontent.com/122214096/213917011-26656cc5-db4b-4052-b8ec-862413217ec1.png)
+
+
 
 
 AutoMl Web App by using streamlit used pycaret for making models(it does one hot encoding on its own for eda we have two libraries pandas profiling and sweetviz and you can even download the best model in a pickle file!
