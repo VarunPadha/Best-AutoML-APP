@@ -1,4 +1,10 @@
 # Best-AutoML-APP
+## Requirements(versions of packages the project was made on , New versions **may** or **maynot work**)-
+* Pycaret 1.17.0(only runs on python 3.8 or lower)
+* pandas profiling 3.6.2
+* sweetviz 2.1.4
+* streamlit pandas profiling 0.1.3
+
 
 # warning:
 * Streamlit used in this project- 1.17.0 only works on Python 3.8 or lower
