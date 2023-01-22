@@ -1,13 +1,13 @@
 # Best-AutoML-APP
 
-#warning:
-*Streamlit used in this project- 1.17.0 only works on Python 3.8 or lower
+# warning:
+* Streamlit used in this project- 1.17.0 only works on Python 3.8 or lower
 
-*create a conda environment of python 3.8and then run the project 
+* create a conda environment of python 3.8and then run the project 
 
-*if you want the same theme as mine then add the .streamlit folder to the project folder
+* If you want the same theme as mine then add the .streamlit folder to the project folder
 
-*D-Tale profiling dosent work with current version of streamlit(both demanda different versions of scipy)
+* D-Tale profiling dosent work with current version of streamlit(both demanda different versions of scipy)
 
 
 
